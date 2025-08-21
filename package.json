@@ -1,0 +1,13 @@
+{
+  "name": "valentine-proposal",
+  "version": "1.0.0",
+  "description": "Valentine's Day Proposal Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
