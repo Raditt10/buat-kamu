@@ -1,7 +1,7 @@
 {
-  "name": "valentine-proposal",
+  "name": "Gombalan sigma",
   "version": "1.0.0",
-  "description": "Valentine's Day Proposal Website",
+  "description": "Ganggu",
   "main": "index.html",
   "scripts": {
     "start": "serve .",
@@ -11,3 +11,4 @@
     "serve": "^14.2.1"
   }
 }
+
